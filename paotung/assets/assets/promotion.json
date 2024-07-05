@@ -1,0 +1,66 @@
+{
+    "BL10" : {
+        "PP16" : [
+            {
+                "value" : -14,
+                "eligible" : ["any"],
+                "not_eligible" : ["MRT Card"]
+            },
+            {
+                "value" : -13,
+                "eligible" : ["MRT Card"],
+                "not_eligible" : []
+            }
+        ]
+    },
+    "PP16" : {
+        "BL10" : [
+            {
+                "value" : -14,
+                "eligible" : ["any"],
+                "not_eligible" : ["MRT Card"]
+            },
+            {
+                "value" : -13,
+                "eligible" : ["MRT Card"],
+                "not_eligible" : []
+            }
+        ]
+    },
+    "BL15" : {
+        "YL01" : [
+            {
+                "value" : -15,
+                "eligible" : ["EMV"],
+                "not_eligible" : []
+            }
+        ]
+    },
+    "YL01" : {
+        "BL15" : [
+            {
+                "value" : -14,
+                "eligible" : ["EMV"],
+                "not_eligible" : []
+            }
+        ]
+    },
+    "PP11" : {
+        "PK01" : [
+            {
+                "value" : -15,
+                "eligible" : ["EMV"],
+                "not_eligible" : []
+            }
+        ]
+    },
+    "PK01" : {
+        "PP11" : [
+            {
+                "value" : -14,
+                "eligible" : ["EMV"],
+                "not_eligible" : []
+            }
+        ]
+    }
+}
