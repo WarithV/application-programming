@@ -1,10 +1,10 @@
 {
-    "name": "paotung",
-    "short_name": "paotung",
+    "name": "Paotung",
+    "short_name": "Paotung",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
     "description": "A new way to manage budget.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
@@ -18,18 +18,6 @@
             "src": "icons/Icon-512.png",
             "sizes": "512x512",
             "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-maskable-192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "maskable"
-        },
-        {
-            "src": "icons/Icon-maskable-512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "maskable"
         }
     ]
 }
