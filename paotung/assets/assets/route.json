@@ -666,7 +666,7 @@
                 "fare_type": "MRTBlue"
             },
             "BL01X": {
-                "code": "BL01X",
+                "code": "BL01",
                 "station_name": "ท่าพระ",
                 "status": false,
                 "fare_type": "MRTBlue"
@@ -1311,7 +1311,7 @@
                 "fare_type": "MRTPink"
             },
             "PK10X": {
-                "code": "PK10X",
+                "code": "PK10",
                 "station_name": "เมืองทองธานี",
                 "status": false,
                 "fare_type": "MRTPink"
