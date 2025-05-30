@@ -666,7 +666,7 @@
                 "fare_type": "MRTBlue"
             },
             "BL01X": {
-                "code": "BL01",
+                "code": "BL01X",
                 "station_name": "ท่าพระ",
                 "status": false,
                 "fare_type": "MRTBlue"
@@ -1206,7 +1206,7 @@
             },
             "YL20": {
                 "code": "YL20",
-                "station_name": "ศรีด่าน",
+                "station_name": "ศรด่าน",
                 "status": true,
                 "fare_type": "MRTYellow"
             },
@@ -1310,16 +1310,22 @@
                 "status": true,
                 "fare_type": "MRTPink"
             },
+            "PK10X": {
+                "code": "PK10X",
+                "station_name": "เมืองทองธานี",
+                "status": false,
+                "fare_type": "MRTPink"
+            },
             "MT01": {
                 "code": "MT01",
                 "station_name": "อิมแพ็ค เมืองทองธานี",
-                "status": false,
+                "status": true,
                 "fare_type": "MRTPink"
             },
             "MT02": {
                 "code": "MT02",
                 "station_name": "ทะเลสาบเมืองทองธานี",
-                "status": false,
+                "status": true,
                 "fare_type": "MRTPink"
             },
             "PK11": {
@@ -1448,6 +1454,16 @@
                 "interchange_with": "MRTPurple",
                 "from": "PK01",
                 "to": "PP11"
+            },
+            {
+                "interchange_with": "MRTPink",
+                "from": "PK10",
+                "to": "PK10X"
+            },
+            {
+                "interchange_with": "MRTPink",
+                "from": "PK10X",
+                "to": "PK10"
             },
             {
                 "interchange_with": "SRTETNorth",
