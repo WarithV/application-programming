@@ -1310,24 +1310,6 @@
                 "status": true,
                 "fare_type": "MRTPink"
             },
-            "PK10X": {
-                "code": "PK10",
-                "station_name": "เมืองทองธานี",
-                "status": false,
-                "fare_type": "MRTPink"
-            },
-            "MT01": {
-                "code": "MT01",
-                "station_name": "อิมแพ็ค เมืองทองธานี",
-                "status": true,
-                "fare_type": "MRTPink"
-            },
-            "MT02": {
-                "code": "MT02",
-                "station_name": "ทะเลสาบเมืองทองธานี",
-                "status": true,
-                "fare_type": "MRTPink"
-            },
             "PK11": {
                 "code": "PK11",
                 "station_name": "แจ้งวัฒนะ 14",
@@ -1456,14 +1438,9 @@
                 "to": "PP11"
             },
             {
-                "interchange_with": "MRTPink",
+                "interchange_with": "MRTPinkX",
                 "from": "PK10",
                 "to": "PK10X"
-            },
-            {
-                "interchange_with": "MRTPink",
-                "from": "PK10X",
-                "to": "PK10"
             },
             {
                 "interchange_with": "SRTETNorth",
@@ -1474,6 +1451,36 @@
                 "interchange_with": "BTSSukhumvit",
                 "from": "PK16",
                 "to": "N17"
+            }
+        ]
+    },
+    "MRTPinkX": {
+        "fare_type": "MRTPink",
+        "stations": {
+            "PK10X": {
+                "code": "PK10",
+                "station_name": "เมืองทองธานี",
+                "status": false,
+                "fare_type": "MRTPink"
+            },
+            "MT01": {
+                "code": "MT01",
+                "station_name": "อิมแพ็ค เมืองทองธานี",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "MT02": {
+                "code": "MT02",
+                "station_name": "ทะเลสาบเมืองทองธานี",
+                "status": true,
+                "fare_type": "MRTPink"
+            }
+        },
+        "interchange": [
+            {
+                "interchange_with": "MRTPink",
+                "from": "PK10X",
+                "to": "PK10"
             }
         ]
     }

@@ -4,69 +4,89 @@
     "callname": "BTS",
     "logo": "assets/BTSSukhumvit.png",
     "color": "0xff76B729",
-    "name": "BTS สายสุขุมวิท"
+    "name": "BTS สายสุขุมวิท",
+    "isExtension": false
   },
   "BTSSilom": {
     "fare_type": "BTS",
     "callname": "BTS",
     "logo": "assets/BTSSilom.png",
     "color": "0xff24705D",
-    "name": "BTS สายสีลม"
+    "name": "BTS สายสีลม",
+    "isExtension": false
   },
   "BTSGold": {
     "fare_type": "BTSGold",
     "callname": "BTS",
     "logo": "assets/BTSGold.png",
     "color": "0xffA58704",
-    "name": "BTS สายสีทอง"
+    "name": "BTS สายสีทอง",
+    "isExtension": false
   },
   "MRTBlue": {
     "fare_type": "MRTBlue",
     "callname": "MRT",
     "logo": "assets/MRTBlue.png",
     "color": "0xff1E4F6F",
-    "name": "MRT สายสีน้ำเงิน"
+    "name": "MRT สายสีน้ำเงิน",
+    "isExtension": false
   },
   "MRTPurple": {
     "fare_type": "MRTPurple",
     "callname": "MRT",
     "logo": "assets/MRTPurple.png",
     "color": "0xff660066",
-    "name": "MRT สายสีม่วง"
+    "name": "MRT สายสีม่วง",
+    "isExtension": false
   },
   "ARL": {
     "fare_type": "ARL",
     "callname": "Airport Rail Link",
     "logo": "assets/ARL.png",
     "color": "0xffEF1B1C",
-    "name": "รถไฟฟ้า Airport Rail Link"
+    "name": "รถไฟฟ้า Airport Rail Link",
+    "isExtension": false
   },
   "SRTETNorth": {
     "fare_type": "SRTET",
     "callname": "SRTET",
     "logo": "assets/SRTET.png",
     "color": "0xffBC1320",
-    "name": "รถไฟฟ้าสายสีแดง สายเหนือ"
+    "name": "รถไฟฟ้าสายสีแดง สายเหนือ",
+    "isExtension": false
   },
   "SRTETWest": {
     "fare_type": "SRTET",
     "callname": "SRTET",
     "logo": "assets/SRTET.png",
     "color": "0xffD05A63",
-    "name": "รถไฟฟ้าสายสีแดง สายตะวันตก"
+    "name": "รถไฟฟ้าสายสีแดง สายตะวันตก",
+    "isExtension": false
   },
   "MRTYellow": {
     "fare_type": "MRTYellow",
     "callname": "MRT",
     "logo": "assets/MRTYellow.png",
     "color": "0xffFFD403",
-    "name": "MRT สายสีเหลือง"
+    "name": "MRT สายสีเหลือง",
+    "isExtension": false
   },
   "MRTPink": {
     "fare_type": "MRTPink",
     "callname": "MRT",
     "logo": "assets/MRTPink.png",
     "color": "0xffCE5981",
-    "name": "MRT สายสีชมพู"
+    "name": "MRT สายสีชมพู",
+    "isExtension": false
+  },
+  "MRTPinkX": {
+    "fare_type": "MRTPink",
+    "callname": "MRT",
+    "logo": "assets/MRTPink.png",
+    "color": "0xffCE5981",
+    "name": "MRT สายสีชมพู",
+    "isExtension": true,
+    "extend_from" : "MRTPink",
+    "extend_at" : "PK10"
   }
 }
