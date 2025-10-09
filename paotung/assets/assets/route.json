@@ -1,0 +1,1487 @@
+{
+    "BTSSukhumvit": {
+        "fare_type": "BTS",
+        "stations": {
+            "N24": {
+                "code": "N24",
+                "station_name": "คูคต",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N23": {
+                "code": "N23",
+                "station_name": "แยก คปอ.",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N22": {
+                "code": "N22",
+                "station_name": "พิพิธภัณฑ์กองทัพอากาศ",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N21": {
+                "code": "N21",
+                "station_name": "โรงพยาบาลภูมิพลอดุลยเดช",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N20": {
+                "code": "N20",
+                "station_name": "สะพานใหม่",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N19": {
+                "code": "N19",
+                "station_name": "สายหยุด",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N18": {
+                "code": "N18",
+                "station_name": "พหลโยธิน 59",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N17": {
+                "code": "N17",
+                "station_name": "วัดพระศรีมหาธาตุ",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N16": {
+                "code": "N16",
+                "station_name": "กรมทหารราบที่ 11",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N15": {
+                "code": "N15",
+                "station_name": "บางบัว",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N14": {
+                "code": "N14",
+                "station_name": "กรมป่าไม้",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N13": {
+                "code": "N13",
+                "station_name": "มหาวิทยาลัยเกษตรศาสตร์",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N12": {
+                "code": "N12",
+                "station_name": "เสนานิคม",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N11": {
+                "code": "N11",
+                "station_name": "รัชโยธิน",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N10": {
+                "code": "N10",
+                "station_name": "พหลโยธิน 24",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N9": {
+                "code": "N9",
+                "station_name": "ห้าแยกลาดพร้าว",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "N8": {
+                "code": "N8",
+                "station_name": "หมอชิต",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "N7": {
+                "code": "N7",
+                "station_name": "สะพานควาย",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "N6": {
+                "code": "N6",
+                "station_name": "เสนาร่วม",
+                "status": false,
+                "fare_type": "BTS"
+            },
+            "N5": {
+                "code": "N5",
+                "station_name": "อารีย์",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "N4": {
+                "code": "N4",
+                "station_name": "สนามเป้า",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "N3": {
+                "code": "N3",
+                "station_name": "อนุสาวรีย์ชัยสมรภูมิ",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "N2": {
+                "code": "N2",
+                "station_name": "พญาไท",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "N1": {
+                "code": "N1",
+                "station_name": "ราชเทวี",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "CEN": {
+                "code": "CEN",
+                "station_name": "สยาม",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "E1": {
+                "code": "E1",
+                "station_name": "ชิดลม",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "E2": {
+                "code": "E2",
+                "station_name": "เพลินจิต",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "E3": {
+                "code": "E3",
+                "station_name": "นานา",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "E4": {
+                "code": "E4",
+                "station_name": "อโศก",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "E5": {
+                "code": "E5",
+                "station_name": "พร้อมพงษ์",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "E6": {
+                "code": "E6",
+                "station_name": "ทองหล่อ",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "E7": {
+                "code": "E7",
+                "station_name": "เอกมัย",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "E8": {
+                "code": "E8",
+                "station_name": "พระโขนง",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "E9": {
+                "code": "E9",
+                "station_name": "อ่อนนุช",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "E10": {
+                "code": "E10",
+                "station_name": "บางจาก",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E11": {
+                "code": "E11",
+                "station_name": "ปุณณวิถี",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E12": {
+                "code": "E12",
+                "station_name": "อุดมสุข",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E13": {
+                "code": "E13",
+                "station_name": "บางนา",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E14": {
+                "code": "E14",
+                "station_name": "แบริ่ง",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E15": {
+                "code": "E15",
+                "station_name": "สำโรง",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E16": {
+                "code": "E16",
+                "station_name": "ปู่เจ้า",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E17": {
+                "code": "E17",
+                "station_name": "ช้างเอราวัณ",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E18": {
+                "code": "E18",
+                "station_name": "โรงเรียนนายเรือ",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E19": {
+                "code": "E19",
+                "station_name": "ปากน้ำ",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E20": {
+                "code": "E20",
+                "station_name": "ศรีนครินทร์",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E21": {
+                "code": "E21",
+                "station_name": "แพรกษา",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E22": {
+                "code": "E22",
+                "station_name": "สายลวด",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "E23": {
+                "code": "E23",
+                "station_name": "เคหะฯ",
+                "status": true,
+                "fare_type": "BTS_extend"
+            }
+        },
+        "interchange": [
+            {
+                "interchange_with": "MRTPink",
+                "from": "N17",
+                "to": "PK16"
+            },
+            {
+                "interchange_with": "MRTBlue",
+                "from": "N9",
+                "to": "BL14"
+            },
+            {
+                "interchange_with": "MRTBlue",
+                "from": "N8",
+                "to": "BL13"
+            },
+            {
+                "interchange_with": "ARL",
+                "from": "N2",
+                "to": "A8"
+            },
+            {
+                "interchange_with": "BTSSilom",
+                "from": "CEN",
+                "to": "CEN"
+            },
+            {
+                "interchange_with": "MRTBlue",
+                "from": "E4",
+                "to": "BL22"
+            },
+            {
+                "interchange_with": "MRTYellow",
+                "from": "E15",
+                "to": "YL23"
+            }
+        ]
+    },
+    "BTSSilom": {
+        "fare_type": "BTS",
+        "stations": {
+            "W1": {
+                "code": "W1",
+                "station_name": "สนามกีฬาแห่งชาติ",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "CEN": {
+                "code": "CEN",
+                "station_name": "สยาม",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "S1": {
+                "code": "S1",
+                "station_name": "ราชดำริ",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "S2": {
+                "code": "S2",
+                "station_name": "ศาลาแดง",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "S3": {
+                "code": "S3",
+                "station_name": "ช่องนนทรี",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "S4": {
+                "code": "S4",
+                "station_name": "เซนต์หลุยส์",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "S5": {
+                "code": "S5",
+                "station_name": "สุรศักดิ์",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "S6": {
+                "code": "S6",
+                "station_name": "สะพานตากสิน",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "S7": {
+                "code": "S7",
+                "station_name": "กรุงธนบุรี",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "S8": {
+                "code": "S8",
+                "station_name": "วงเวียนใหญ่",
+                "status": true,
+                "fare_type": "BTS"
+            },
+            "S9": {
+                "code": "S9",
+                "station_name": "โพธิ์นิมิตร",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "S10": {
+                "code": "S10",
+                "station_name": "ตลาดพลู",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "S11": {
+                "code": "S11",
+                "station_name": "วุฒากาศ",
+                "status": true,
+                "fare_type": "BTS_extend"
+            },
+            "S12": {
+                "code": "S12",
+                "station_name": "บางหว้า",
+                "status": true,
+                "fare_type": "BTS_extend"
+            }
+        },
+        "interchange": [
+            {
+                "interchange_with": "BTSSukhumvit",
+                "from": "CEN",
+                "to": "CEN"
+            },
+            {
+                "interchange_with": "MRTBlue",
+                "from": "S2",
+                "to": "BL26"
+            },
+            {
+                "interchange_with": "BTSGold",
+                "from": "S7",
+                "to": "G1"
+            },
+            {
+                "interchange_with": "MRTBlue",
+                "from": "S12",
+                "to": "BL34"
+            }
+        ]
+    },
+    "BTSGold": {
+        "fare_type": "BTSGold",
+        "stations": {
+            "G1": {
+                "code": "G1",
+                "station_name": "กรุงธนบุรี",
+                "status": true,
+                "fare_type": "BTSGold"
+            },
+            "G2": {
+                "code": "G2",
+                "station_name": "เจริญนคร",
+                "status": true,
+                "fare_type": "BTSGold"
+            },
+            "G3": {
+                "code": "G3",
+                "station_name": "คลองสาน",
+                "status": true,
+                "fare_type": "BTSGold"
+            }
+        },
+        "interchange": [
+            {
+                "interchange_with": "BTSSilom",
+                "from": "G1",
+                "to": "S7"
+            }
+        ]
+    },
+    "MRTBlue": {
+        "fare_type": "MRTBlue",
+        "stations": {
+            "BL01": {
+                "code": "BL01",
+                "station_name": "ท่าพระ",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL02": {
+                "code": "BL02",
+                "station_name": "จรัญ 13",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL03": {
+                "code": "BL03",
+                "station_name": "ไฟฉาย",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL04": {
+                "code": "BL04",
+                "station_name": "บางขุนนนท์",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL05": {
+                "code": "BL05",
+                "station_name": "บางยี่ขัน",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL06": {
+                "code": "BL06",
+                "station_name": "สิรินธร",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL07": {
+                "code": "BL07",
+                "station_name": "บางพลัด",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL08": {
+                "code": "BL08",
+                "station_name": "บางอ้อ",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL09": {
+                "code": "BL09",
+                "station_name": "บางโพ",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL10": {
+                "code": "BL10",
+                "station_name": "เตาปูน",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL11": {
+                "code": "BL11",
+                "station_name": "บางซื่อ",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL12": {
+                "code": "BL12",
+                "station_name": "กำแพงเพชร",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL13": {
+                "code": "BL13",
+                "station_name": "สวนจตุจักร",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL14": {
+                "code": "BL14",
+                "station_name": "พหลโยธิน",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL15": {
+                "code": "BL15",
+                "station_name": "ลาดพร้าว",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL16": {
+                "code": "BL16",
+                "station_name": "รัชดาภิเษก",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL17": {
+                "code": "BL17",
+                "station_name": "สุทธิสาร",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL18": {
+                "code": "BL18",
+                "station_name": "ห้วยขวาง",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL19": {
+                "code": "BL19",
+                "station_name": "ศูนย์วัฒนธรรมแห่งประเทศไทย",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL20": {
+                "code": "BL20",
+                "station_name": "พระราม 9",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL21": {
+                "code": "BL21",
+                "station_name": "เพชรบุรี",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL22": {
+                "code": "BL22",
+                "station_name": "สุขุมวิท",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL23": {
+                "code": "BL23",
+                "station_name": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL24": {
+                "code": "BL24",
+                "station_name": "คลองเตย",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL25": {
+                "code": "BL25",
+                "station_name": "ลุมพินี",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL26": {
+                "code": "BL26",
+                "station_name": "สีลม",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL27": {
+                "code": "BL27",
+                "station_name": "สามย่าน",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL28": {
+                "code": "BL28",
+                "station_name": "หัวลำโพง",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL29": {
+                "code": "BL29",
+                "station_name": "วัดมังกร",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL30": {
+                "code": "BL30",
+                "station_name": "สามยอด",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL31": {
+                "code": "BL31",
+                "station_name": "สนามไชย",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL32": {
+                "code": "BL32",
+                "station_name": "อิสรภาพ",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL01X": {
+                "code": "BL01",
+                "station_name": "ท่าพระ",
+                "status": false,
+                "fare_type": "MRTBlue"
+            },
+            "BL33": {
+                "code": "BL33",
+                "station_name": "บางไผ่",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL34": {
+                "code": "BL34",
+                "station_name": "บางหว้า",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL35": {
+                "code": "BL35",
+                "station_name": "เพชรเกษม 48",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL36": {
+                "code": "BL36",
+                "station_name": "ภาษีเจริญ",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL37": {
+                "code": "BL37",
+                "station_name": "บางแค",
+                "status": true,
+                "fare_type": "MRTBlue"
+            },
+            "BL38": {
+                "code": "BL38",
+                "station_name": "หลักสอง",
+                "status": true,
+                "fare_type": "MRTBlue"
+            }
+        },
+        "interchange": [
+            {
+                "interchange_with": "MRTBlue",
+                "from": "BL01",
+                "to": "BL01X"
+            },
+            {
+                "interchange_with": "MRTPurple",
+                "from": "BL10",
+                "to": "PP16"
+            },
+            {
+                "interchange_with": "SRTETNorth",
+                "from": "BL11",
+                "to": "RN01"
+            },
+            {
+                "interchange_with": "SRTETWest",
+                "from": "BL11",
+                "to": "RW01"
+            },
+            {
+                "interchange_with": "BTSSukhumvit",
+                "from": "BL13",
+                "to": "N8"
+            },
+            {
+                "interchange_with": "BTSSukhumvit",
+                "from": "BL14",
+                "to": "N9"
+            },
+            {
+                "interchange_with": "MRTYellow",
+                "from": "BL15",
+                "to": "YL01"
+            },
+            {
+                "interchange_with": "ARL",
+                "from": "BL21",
+                "to": "A6"
+            },
+            {
+                "interchange_with": "BTSSukhumvit",
+                "from": "BL22",
+                "to": "E4"
+            },
+            {
+                "interchange_with": "BTSSilom",
+                "from": "BL26",
+                "to": "S2"
+            },
+            {
+                "interchange_with": "MRTBlue",
+                "from": "BL01X",
+                "to": "BL01"
+            },
+            {
+                "interchange_with": "BTSSilom",
+                "from": "BL34",
+                "to": "S12"
+            }
+        ]
+    },
+    "MRTPurple": {
+        "fare_type": "MRTPurple",
+        "stations": {
+            "PP01": {
+                "code": "PP01",
+                "station_name": "คลองบางไผ่",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP02": {
+                "code": "PP02",
+                "station_name": "ตลาดบางใหญ่",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP03": {
+                "code": "PP03",
+                "station_name": "สามแยกบางใหญ่",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP04": {
+                "code": "PP04",
+                "station_name": "บางพลู",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP05": {
+                "code": "PP05",
+                "station_name": "บางรักใหญ่",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP06": {
+                "code": "PP06",
+                "station_name": "บางรักน้อยท่าอิฐ",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP07": {
+                "code": "PP07",
+                "station_name": "ไทรม้า",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP08": {
+                "code": "PP08",
+                "station_name": "สะพานพระนั่งเกล้า",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP09": {
+                "code": "PP09",
+                "station_name": "แยกนนทบุรี 1",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP10": {
+                "code": "PP10",
+                "station_name": "บางกระสอ",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP11": {
+                "code": "PP11",
+                "station_name": "ศูนย์ราชการนนทบุรี",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP12": {
+                "code": "PP12",
+                "station_name": "กระทรวงสาธารณสุข",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP13": {
+                "code": "PP13",
+                "station_name": "แยกติวานนท์",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP14": {
+                "code": "PP14",
+                "station_name": "วงศ์สว่าง",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP15": {
+                "code": "PP15",
+                "station_name": "บางซ่อน",
+                "status": true,
+                "fare_type": "MRTPurple"
+            },
+            "PP16": {
+                "code": "PP16",
+                "station_name": "เตาปูน",
+                "status": true,
+                "fare_type": "MRTPurple"
+            }
+        },
+        "interchange": [
+            {
+                "interchange_with": "MRTPink",
+                "from": "PP11",
+                "to": "PK01"
+            },
+            {
+                "interchange_with": "SRTETWest",
+                "from": "PP15",
+                "to": "RW02"
+            },
+            {
+                "interchange_with": "MRTBlue",
+                "from": "PP16",
+                "to": "BL10"
+            }
+        ]
+    },
+    "ARL": {
+        "fare_type": "ARL",
+        "stations": {
+            "A1": {
+                "code": "A1",
+                "station_name": "สุวรรณภูมิ",
+                "status": true,
+                "fare_type": "ARL"
+            },
+            "A2": {
+                "code": "A2",
+                "station_name": "ลาดกระบัง",
+                "status": true,
+                "fare_type": "ARL"
+            },
+            "A3": {
+                "code": "A3",
+                "station_name": "บ้านทับช้าง",
+                "status": true,
+                "fare_type": "ARL"
+            },
+            "A4": {
+                "code": "A4",
+                "station_name": "หัวหมาก",
+                "status": true,
+                "fare_type": "ARL"
+            },
+            "A5": {
+                "code": "A5",
+                "station_name": "รามคำแหง",
+                "status": true,
+                "fare_type": "ARL"
+            },
+            "A6": {
+                "code": "A6",
+                "station_name": "มักกะสัน",
+                "status": true,
+                "fare_type": "ARL"
+            },
+            "A7": {
+                "code": "A7",
+                "station_name": "ราชปรารภ",
+                "status": true,
+                "fare_type": "ARL"
+            },
+            "A8": {
+                "code": "A8",
+                "station_name": "พญาไท",
+                "status": true,
+                "fare_type": "ARL"
+            }
+        },
+        "interchange": [
+            {
+                "interchange_with": "MRTYellow",
+                "from": "A4",
+                "to": "YL11"
+            },
+            {
+                "interchange_with": "MRTBlue",
+                "from": "A6",
+                "to": "BL21"
+            },
+            {
+                "interchange_with": "BTSSukhumvit",
+                "from": "A8",
+                "to": "N2"
+            }
+        ]
+    },
+    "SRTETNorth": {
+        "fare_type": "SRTET",
+        "stations": {
+            "RN01": {
+                "code": "RN01",
+                "station_name": "บางซื่อ",
+                "status": true,
+                "fare_type": "SRTET"
+            },
+            "RN02": {
+                "code": "RN02",
+                "station_name": "จตุจักร",
+                "status": true,
+                "fare_type": "SRTET"
+            },
+            "RN03": {
+                "code": "RN03",
+                "station_name": "วัดเสมียนนารี",
+                "status": true,
+                "fare_type": "SRTET"
+            },
+            "RN04": {
+                "code": "RN04",
+                "station_name": "บางเขน",
+                "status": true,
+                "fare_type": "SRTET"
+            },
+            "RN05": {
+                "code": "RN05",
+                "station_name": "ทุ่งสองห้อง",
+                "status": true,
+                "fare_type": "SRTET"
+            },
+            "RN06": {
+                "code": "RN06",
+                "station_name": "หลักสี่",
+                "status": true,
+                "fare_type": "SRTET"
+            },
+            "RN07": {
+                "code": "RN07",
+                "station_name": "การเคหะ",
+                "status": true,
+                "fare_type": "SRTET"
+            },
+            "RN08": {
+                "code": "RN08",
+                "station_name": "ดอนเมือง",
+                "status": true,
+                "fare_type": "SRTET"
+            },
+            "RN09": {
+                "code": "RN09",
+                "station_name": "หลักหก",
+                "status": true,
+                "fare_type": "SRTET"
+            },
+            "RN10": {
+                "code": "RN10",
+                "station_name": "รังสิต",
+                "status": true,
+                "fare_type": "SRTET"
+            }
+        },
+        "interchange": [
+            {
+                "interchange_with": "MRTBlue",
+                "from": "RN01",
+                "to": "BL11"
+            },
+            {
+                "interchange_with": "SRTETWest",
+                "from": "RN01",
+                "to": "RW01"
+            },
+            {
+                "interchange_with": "MRTPink",
+                "from": "RN06",
+                "to": "PK14"
+            }
+        ]
+    },
+    "SRTETWest": {
+        "fare_type": "SRTET",
+        "stations": {
+            "RW01": {
+                "code": "RW01",
+                "station_name": "บางซื่อ",
+                "status": true,
+                "fare_type": "SRTET"
+            },
+            "RW02": {
+                "code": "RW02",
+                "station_name": "บางซ่อน",
+                "status": true,
+                "fare_type": "SRTET"
+            },
+            "RW05": {
+                "code": "RW05",
+                "station_name": "บางบำหรุ",
+                "status": true,
+                "fare_type": "SRTET"
+            },
+            "RW06": {
+                "code": "RW06",
+                "station_name": "ตลิ่งชัน",
+                "status": true,
+                "fare_type": "SRTET"
+            }
+        },
+        "interchange": [
+            {
+                "interchange_with": "MRTBlue",
+                "from": "RW01",
+                "to": "BL11"
+            },
+            {
+                "interchange_with": "SRTETNorth",
+                "from": "RW01",
+                "to": "RN01"
+            },
+            {
+                "interchange_with": "MRTPurple",
+                "from": "RW02",
+                "to": "PP15"
+            }
+        ]
+    },
+    "MRTYellow": {
+        "fare_type": "MRTYellow",
+        "stations": {
+            "YL01": {
+                "code": "YL01",
+                "station_name": "ลาดพร้าว",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL02": {
+                "code": "YL02",
+                "station_name": "ภาวนา",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL03": {
+                "code": "YL03",
+                "station_name": "โชคชัย 4",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL04": {
+                "code": "YL04",
+                "station_name": "ลาดพร้าว 71",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL05": {
+                "code": "YL05",
+                "station_name": "ลาดพร้าว 83",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL06": {
+                "code": "YL06",
+                "station_name": "มหาดไทย",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL07": {
+                "code": "YL07",
+                "station_name": "ลาดพร้าว 101",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL08": {
+                "code": "YL08",
+                "station_name": "บางกะปิ",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL09": {
+                "code": "YL09",
+                "station_name": "แยกลำสาลี",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL10": {
+                "code": "YL10",
+                "station_name": "ศรีกรีฑา",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL11": {
+                "code": "YL11",
+                "station_name": "หัวหมาก",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL12": {
+                "code": "YL12",
+                "station_name": "กลันตัน",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL13": {
+                "code": "YL13",
+                "station_name": "ศรีนุช",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL14": {
+                "code": "YL14",
+                "station_name": "ศรีนครินทร์ 38",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL15": {
+                "code": "YL15",
+                "station_name": "สวนหลวง ร.9",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL16": {
+                "code": "YL16",
+                "station_name": "ศรีอุดม",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL17": {
+                "code": "YL17",
+                "station_name": "ศรีเอี่ยม",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL18": {
+                "code": "YL18",
+                "station_name": "ศรีลาซาล",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL19": {
+                "code": "YL19",
+                "station_name": "ศรีแบริ่ง",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL20": {
+                "code": "YL20",
+                "station_name": "ศรด่าน",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL21": {
+                "code": "YL21",
+                "station_name": "ศรีเทพา",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL22": {
+                "code": "YL22",
+                "station_name": "ทิพวัล",
+                "status": true,
+                "fare_type": "MRTYellow"
+            },
+            "YL23": {
+                "code": "YL23",
+                "station_name": "สำโรง",
+                "status": true,
+                "fare_type": "MRTYellow"
+            }
+        },
+        "interchange": [
+            {
+                "interchange_with": "MRTBlue",
+                "from": "YL01",
+                "to": "BL15"
+            },
+            {
+                "interchange_with": "ARL",
+                "from": "YL11",
+                "to": "A4"
+            },
+            {
+                "interchange_with": "BTSSukhumvit",
+                "from": "YL23",
+                "to": "E15"
+            }
+        ]
+    },
+    "MRTPink": {
+        "fare_type": "MRTPink",
+        "stations": {
+            "PK01": {
+                "code": "PK01",
+                "station_name": "ศูนย์ราชการนนทบุรี",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK02": {
+                "code": "PK02",
+                "station_name": "แคราย",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK03": {
+                "code": "PK03",
+                "station_name": "สนามบินน้ำ",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK04": {
+                "code": "PK04",
+                "station_name": "สามัคคี",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK05": {
+                "code": "PK05",
+                "station_name": "กรมชลประทาน",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK06": {
+                "code": "PK06",
+                "station_name": "แยกปากเกร็ด",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK07": {
+                "code": "PK07",
+                "station_name": "เลี่ยงเมืองปากเกร็ด",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK08": {
+                "code": "PK08",
+                "station_name": "แจ้งวัฒนะ - ปากเกร็ด 28",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK09": {
+                "code": "PK09",
+                "station_name": "ศรีรัช",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK10": {
+                "code": "PK10",
+                "station_name": "เมืองทองธานี",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK11": {
+                "code": "PK11",
+                "station_name": "แจ้งวัฒนะ 14",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK12": {
+                "code": "PK12",
+                "station_name": "ศูนย์ราชการเฉลิมพระเกียรติ",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK13": {
+                "code": "PK13",
+                "station_name": "โทรคมนาคมแห่งชาติ",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK14": {
+                "code": "PK14",
+                "station_name": "หลักสี่",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK15": {
+                "code": "PK15",
+                "station_name": "ราชภัฏพระนคร",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK16": {
+                "code": "PK16",
+                "station_name": "วัดพระศรีมหาธาตุ",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK17": {
+                "code": "PK17",
+                "station_name": "รามอินทรา 3",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK18": {
+                "code": "PK18",
+                "station_name": "ลาดปลาเค้า",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK19": {
+                "code": "PK19",
+                "station_name": "รามอินทรา กม.4",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK20": {
+                "code": "PK20",
+                "station_name": "มัยลาภ",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK21": {
+                "code": "PK21",
+                "station_name": "วัชรพล",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK22": {
+                "code": "PK22",
+                "station_name": "รามอินทรา กม.6",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK23": {
+                "code": "PK23",
+                "station_name": "คู้บอน",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK24": {
+                "code": "PK24",
+                "station_name": "รามอินทรา กม.9",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK25": {
+                "code": "PK25",
+                "station_name": "วงแหวนรามอินทรา",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK26": {
+                "code": "PK26",
+                "station_name": "นพรัตน์",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK27": {
+                "code": "PK27",
+                "station_name": "บางชัน",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK28": {
+                "code": "PK28",
+                "station_name": "เศรษฐบุตรบำเพ็ญ",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK29": {
+                "code": "PK29",
+                "station_name": "ตลาดมีนบุรี",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "PK30": {
+                "code": "PK30",
+                "station_name": "มีนบุรี",
+                "status": true,
+                "fare_type": "MRTPink"
+            }
+        },
+        "interchange": [
+            {
+                "interchange_with": "MRTPurple",
+                "from": "PK01",
+                "to": "PP11"
+            },
+            {
+                "interchange_with": "MRTPinkX",
+                "from": "PK10",
+                "to": "PK10X"
+            },
+            {
+                "interchange_with": "SRTETNorth",
+                "from": "PK14",
+                "to": "RN06"
+            },
+            {
+                "interchange_with": "BTSSukhumvit",
+                "from": "PK16",
+                "to": "N17"
+            }
+        ]
+    },
+    "MRTPinkX": {
+        "fare_type": "MRTPink",
+        "stations": {
+            "PK10X": {
+                "code": "PK10",
+                "station_name": "เมืองทองธานี",
+                "status": false,
+                "fare_type": "MRTPink"
+            },
+            "MT01": {
+                "code": "MT01",
+                "station_name": "อิมแพ็ค เมืองทองธานี",
+                "status": true,
+                "fare_type": "MRTPink"
+            },
+            "MT02": {
+                "code": "MT02",
+                "station_name": "ทะเลสาบเมืองทองธานี",
+                "status": true,
+                "fare_type": "MRTPink"
+            }
+        },
+        "interchange": [
+            {
+                "interchange_with": "MRTPink",
+                "from": "PK10X",
+                "to": "PK10"
+            }
+        ]
+    }
+}
