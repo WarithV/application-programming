@@ -103207,7 +103207,7 @@ return A.fd(B.be,A.b([s,r,this.d?B.vm:B.ay],p),B.Q,B.aZ,q)},
 DB(){var s=0,r=A.P(t.y),q,p
 var $async$DB=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:s=3
-return A.L(A.aas(A.fU("https://script.google.com/macros/s/AKfycbwXzcMZOKniDYIoN1rrzjemqqqRLRUMuRrDq8R9r7ixTJdOmOBuEtKUb1H3klrm1c3X/exec?type=send_latest_invoice",0,null)),$async$DB)
+return A.L(A.aas(A.fU("https://script.google.com/macros/s/AKfycbxwT7NCRnZipxU02CLkDoM62VvvkzGBm4ur5Aj5K6hxySPFjdHRaCQAnlLZLqrXIdLS/exec?type=send_latest_invoice",0,null)),$async$DB)
 case 3:p=b
 q=J.f(B.bw.wt(0,A.aap(A.aaa(p.e).c.a.i(0,"charset")).ds(0,p.w),null),"success")
 s=1
@@ -103445,7 +103445,7 @@ return A.O($async$uw,r)},
 Da(){var s=0,r=A.P(t.H),q
 var $async$Da=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:s=2
-return A.L(A.aas(A.fU("https://script.google.com/macros/s/AKfycbwXzcMZOKniDYIoN1rrzjemqqqRLRUMuRrDq8R9r7ixTJdOmOBuEtKUb1H3klrm1c3X/exec?type=get_latest_invoice",0,null)),$async$Da)
+return A.L(A.aas(A.fU("https://script.google.com/macros/s/AKfycbxwT7NCRnZipxU02CLkDoM62VvvkzGBm4ur5Aj5K6hxySPFjdHRaCQAnlLZLqrXIdLS/exec?type=get_latest_invoice",0,null)),$async$Da)
 case 2:q=b
 $.kM.b=B.bw.wt(0,A.aap(A.aaa(q.e).c.a.i(0,"charset")).ds(0,q.w),null)
 return A.N(null,r)}})
@@ -103455,7 +103455,7 @@ var $async$D2=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:p=A.a0([B.dy,"half_month",B.ft,"full_month",B.aM,"custom"],t.iT,t.N).i(0,$.nf)
 o=p==="custom"?"Date "+A.k($.wE().i(0,B.aM)):""
 s=2
-return A.L(A.aas(A.fU("https://script.google.com/macros/s/AKfycbwXzcMZOKniDYIoN1rrzjemqqqRLRUMuRrDq8R9r7ixTJdOmOBuEtKUb1H3klrm1c3X/exec?type=generate_invoice&date_type="+A.k(p)+"&custom_txt="+o+"&saving="+A.k($.aQw),0,null)),$async$D2)
+return A.L(A.aas(A.fU("https://script.google.com/macros/s/AKfycbxwT7NCRnZipxU02CLkDoM62VvvkzGBm4ur5Aj5K6hxySPFjdHRaCQAnlLZLqrXIdLS/exec?type=generate_invoice&date_type="+A.k(p)+"&custom_txt="+o+"&saving="+A.k($.aQw),0,null)),$async$D2)
 case 2:n=b
 q.a4(new A.aFX(B.bw.wt(0,A.aap(A.aaa(n.e).c.a.i(0,"charset")).ds(0,n.w),null)))
 return A.N(null,r)}})
